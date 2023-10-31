@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="Learning_Animation"
+run/main_scene="res://Scene/First_scene.tscn"
 config/features=PackedStringArray("4.1", "Mobile")
 config/icon="res://icon.svg"
 
